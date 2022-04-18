@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to leifengrui Pages
 
-You can use the [editor on GitHub](https://github.com/leifengrui/leifengrui.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm glad you found it here. If you want to contact me, I'll share my story here, leifengrui@outlook.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Welcome! to my website!!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
